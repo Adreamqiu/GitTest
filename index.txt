@@ -1,13 +1,2 @@
 Hello World~
 And Goodbye~
-
-<<<<<<< HEAD
-peace and love~
-stupid man
-You are beautiful
-
-=======
-AAA
-第1行
-第2行
->>>>>>> 2706f66e371756762fefea957019b77a8841c858
